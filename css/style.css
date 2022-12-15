@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(68, 68, 68);
+}
+
+#bg-img
+{
+    background: url('wb.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+
+.fa
+{
+    color:white;
+    text-decoration: none;
+}
+
+#About span{
+   
+    padding:1.25rem;
+    width: 4rem;
+    margin-bottom: 0;
+}
+
+#About hr{
+    height:0.2rem;
+}
+
+
+#Skills span{
+   
+    padding:1.25rem;
+    width: 4rem;
+    margin-bottom: 0;
+}
+    
+ #Skills hr{
+        height:0.2rem;
+        padding:0;
+
+ }
+#Experience span{
+        padding:1.25rem;
+        width: 4rem;
+        margin-bottom: 0;
+        }
+
+#Experience hr{
+    height:0.2rem;
+            }    
+            
+#Experience .card
+{
+    border-top: 0.2rem solid red;
+}
+
+#Contact span{
+    padding:1.25rem;
+    width: 4rem;
+    margin-bottom: 0;
+    }
+
+#Contact hr{
+height:0.2rem;
+        } 
